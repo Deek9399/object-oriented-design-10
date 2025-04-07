@@ -1,0 +1,9 @@
+A short description of your final project
+Key features (Use Cases)
+A robuteness diagram showing the interface, control, and entity classes of the most relevant use case (just one diagram)
+A sequence or collobaration diagram of the most relevant use case (just one diagram) showing very clear all the classes required to implement this sequence diagram, including interfaces, control classes, and entity classes that will be persisted in your database/file system.
+Package diagram and dependencies between them
+Class diagram of your "entity" classes
+Component Diagram
+Deployment Diagram
+Demo
