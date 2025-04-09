@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <Shell
     x:Class="MauiApp1.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
@@ -7,9 +6,27 @@
     Shell.FlyoutBehavior="Flyout"
     Title="MauiApp1">
 
+    <!-- Main page for home -->
     <ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate views:MainPage}"
         Route="MainPage" />
 
+    <!-- Login page navigation -->
+    <ShellContent
+        Title="Login"
+        ContentTemplate="{DataTemplate views:LoginPage}"
+        Route="LoginPage" />
+
+    <!-- Create User (Account) page navigation -->
+    <ShellContent
+        Title="Create Account"
+        ContentTemplate="{DataTemplate views:CreateUserPageView}"
+        Route="CreateUserPageView" />
+    
+    <!-- User Dashboard page navigation -->
+    <ShellContent
+        Title="Dashboard"
+        ContentTemplate="{DataTemplate views:UserDashboardPage}"
+        Route="UserDashboardPage" />
 </Shell>
