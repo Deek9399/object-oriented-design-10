@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MauiApp1.Views"
+             xmlns:viewModels="clr-namespace:MauiApp1.ViewModels"
+             x:Class="MauiApp1.Views.FinanceManager"
+             x:DataType="viewModels:FinanceManagerViewModel">
+
+    <StackLayout Padding="10">
+
+        <!-- List of Current Budgets/Expenses -->
+        <ListView ItemsSource="{Binding BudgetsExpenses}"
+                  SelectedItem="{Binding SelectedBudgetExpense}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Category}"
+                              Detail="{Binding Spent, StringFormat='Spent: {0:C} / {1:C}'}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!-- Add/Edit Button -->
+        <Button Text="Add Budget/Expense"
+                Command="{Binding AddBudgetExpenseCommand}" />
+
+        <Button Text="Edit Budget/Expense"
+                Command="{Binding EditBudgetExpenseCommand}"
+                IsVisible="{Binding SelectedBudgetExpense, Converter={StaticResource NullToBoolConverter}}" />
+
+    </StackLayout>
+
+</ContentPage>

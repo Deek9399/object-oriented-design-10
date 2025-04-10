@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MauiApp1.Views"
+             xmlns:viewModels="clr-namespace:MauiApp1.ViewModels"
+             x:Class="MauiApp1.Views.InvestmentManagerView"
+             x:DataType="viewModels:InvestmentManagerViewModel">
+
+    <StackLayout Padding="10">
+
+        <!-- List of Current Investments -->
+        <ListView ItemsSource="{Binding Investments}"
+                  SelectedItem="{Binding SelectedInvestment}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}"
+                              Detail="{Binding CurrentValue, StringFormat='Current Value: {0:C}'}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!-- Add/Edit Button -->
+        <Button Text="Add Investment"
+                Command="{Binding AddInvestmentCommand}" />
+
+        <Button Text="Edit Investment"
+                Command="{Binding EditInvestmentCommand}"
+                IsVisible="{Binding SelectedInvestment, Converter={StaticResource NullToBoolConverter}}" />
+
+    </StackLayout>
+
+</ContentPage>
