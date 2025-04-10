@@ -1,0 +1,80 @@
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    List<Object> menuItems = new List<Object>();
+
+    menuItems.Add(new
+    {
+        text = "Menu",
+        separator = true,
+    });
+    menuItems.Add(new
+    {
+        text = "Dashboard",
+        url = "/",
+        iconCss = "fa-solid fa-chart-line",
+    });
+    menuItems.Add(new
+    {
+        text = "Categories",
+        url = "/Category",
+        iconCss = "fa-solid fa-folder-open",
+    });
+    menuItems.Add(new
+    {
+        text = "Transactions",
+        iconCss = "fa-solid fa-receipt",
+        url = "/Transaction"
+    });
+    menuItems.Add(new
+    {
+        text = "Budget",
+        iconCss = "fa-solid fa-sack-dollar",
+        url = "/Budget"
+    });
+}
+
+
+<ejs-sidebar id="sidebar" width="290px" enableDock="true" dockSize="100px"
+            target=".dock-target" enableGestures="false" isOpen="false" type="Push">
+    <e-content-template>
+
+        <div class="logo-wrapper">
+            <div class="app-logo">
+                <i class="fa-solid fa-dollar-sign"></i>
+                <i class="fa-solid fa-gear"></i>
+            </div>
+            <div class="w-100"></div>
+            <i id="sidebar-toggler" class="fa-solid"></i>
+        </div>
+
+        <div class="profile-wrapper">
+            <div class="profile-pic">
+                <i class="fa-solid fa-user fa-2xl"></i>
+            </div>
+            <div class="titles d-flex flex-column ps-3">
+                <h6 class="mb-0">Expense Tracker</h6>
+                <span class="text-muted">Aayush</span>
+            </div>
+        </div>
+
+        <ejs-menu id="menu"
+                  items="menuItems"
+                  orientation="Vertical"
+                  hamburgerMode></ejs-menu>
+    </e-content-template>
+</ejs-sidebar>
+
+<script>
+    document.addEventListener('DOMContentLoaded',function (){
+        dockBar = document.getElementById('sidebar').ej2_instances[0];
+        if(dockBar) {
+            dockBar.position = 'Left';
+        }
+        document.getElementById('sidebar-toggler').onclick = function () {
+            dockBar.toggle();
+        };
+    });
+
+</script>
