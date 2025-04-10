@@ -1,0 +1,1017 @@
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\appsettings.json
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Expense Tracker.staticwebassets.runtime.json
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Expense Tracker.staticwebassets.endpoints.json
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Expense Tracker.exe
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Expense Tracker.deps.json
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Expense Tracker.runtimeconfig.json
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Expense Tracker.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Expense Tracker.pdb
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Humanizer.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\MessagePack.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\MessagePack.Annotations.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Syncfusion.EJ2.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Syncfusion.Licensing.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.csproj.AssemblyReference.cache
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.AssemblyInfoInputs.cache
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.AssemblyInfo.cs
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.csproj.CoreCompileInputs.cache
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.RazorAssemblyInfo.cache
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.RazorAssemblyInfo.cs
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.sourcelink.json
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\scopedcss\bundle\Expense Tracker.styles.css
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\scopedcss\projectbundle\Expense Tracker.bundle.scp.css
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\jmj4r45z47-t6wu48rnv7.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\roir5dbrjd-ihz5u0lihh.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\igwcv491uc-6b9nfc4n3r.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\1glrxiw49m-nakmwdwsxp.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\y9ojnks5w9-st1cbwfwo5.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\0b59v6bsrj-5p029spbuu.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\7o29y5cl9v-5vj65cig9w.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\kj23s22uhm-e6q6xbwqzk.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\kv6knvjsd1-2q4vfeazbq.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\s1rp1c0wqg-dy6jgresuo.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\47q1k1odpp-o371a8zbv2.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\aab0eix58h-mk8rdyw69w.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\p7xj0jzfwg-jeal3x0ldm.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\pivk7fk53b-z7kmom2977.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\iwptzib1v1-okkk44j0xs.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\hvsqgimt46-97yrjpyf9r.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\4wla8vqe4d-cwzlr5n8x4.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\0qng5fqrm9-y53cy5s2zj.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\fg8k8dpcqw-wmug9u23qg.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\atddp2b40k-z9shlbduue.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\820y9ud0tc-j75batdsum.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\z3qn5fmhn5-2yn17lgxub.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\6jvkb2x6io-vy0bq9ydhf.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\cl9i5f85dj-ophe14yye5.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\9m0d6hn4pj-ab1c3rmv7g.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\u9cv55hq17-ik6i2hrs65.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\bsepf2by57-56d2bn4wt9.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\n1rztgaahf-ozu22stjof.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\7e1jrouz3e-73kdqttayv.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\mdw5cf5bse-6gzpyzhau4.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\6irs1lr206-8inm30yfxf.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\btzogytvl2-gjcw7pocpk.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\nbw5yrq2ym-4gxs3k148c.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\arwiq622fu-6l4ir0ityv.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\s3y88hu9ur-fctod5rc9n.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\v7mk9eir2f-f6zq8v6eb3.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\1hpyo07srx-kbynt5jhd9.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\92sjrmtusv-89qbw8ngem.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\dnp8qhgosa-c2nslu3uf3.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\bba0jss9t9-n5w6o92d9r.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\bn3tgaz6ao-2lgwfvgpvi.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\5zsw1e1n9a-jqwzsa9uv6.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\6r493uenxl-wsezl0heh6.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\on9hhdrh7z-1piudyfv7h.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\phn6ngjczz-6ukhryfubh.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\r5istdxhdg-4908xmbfjr.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\211d4ox20s-u33ctipx7g.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\ro5im22xel-dvc2bfcndg.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\pu3cr8fp8g-mt9h37ga6s.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\2nubatm872-wqejeusuyq.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\8kugiek0ou-wus95c49fh.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\zlt2j00pdl-sjab29p8z5.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\gb9j3e7l9m-d2pxujwhw3.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\8mu9akc04l-4dm14o4hmc.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\xaf1y6mb6t-x0q3zqp4vz.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\3wy3811757-ukz1g2vv03.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\72b454ei1k-rm8d4uw1xt.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\tqferwafak-dsw5v3fbc5.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\qnglonxnsf-afgyafcsqt.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\5lcr499xb2-b0id6z6ddi.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\f9n9vrdxmu-b0id6z6ddi.gz
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets\msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets\msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets\msbuild.build.Expense Tracker.props
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Expense Tracker.props
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Expense Tracker.props
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense .AD010034.Up2Date
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\refint\Expense Tracker.dll
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.pdb
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.genruntimeconfig.cache
+C:\Users\aayus\Downloads\OOP projects\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\ref\Expense Tracker.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\appsettings.json
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Expense Tracker.staticwebassets.runtime.json
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Expense Tracker.staticwebassets.endpoints.json
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Expense Tracker.exe
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Expense Tracker.deps.json
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Expense Tracker.runtimeconfig.json
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Expense Tracker.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Expense Tracker.pdb
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Humanizer.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\MessagePack.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\MessagePack.Annotations.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Syncfusion.EJ2.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\Syncfusion.Licensing.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.csproj.AssemblyReference.cache
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.AssemblyInfoInputs.cache
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.AssemblyInfo.cs
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.csproj.CoreCompileInputs.cache
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.RazorAssemblyInfo.cache
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.RazorAssemblyInfo.cs
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\scopedcss\bundle\Expense Tracker.styles.css
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\scopedcss\projectbundle\Expense Tracker.bundle.scp.css
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\igwcv491uc-6b9nfc4n3r.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\1glrxiw49m-nakmwdwsxp.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\y9ojnks5w9-st1cbwfwo5.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\0b59v6bsrj-5p029spbuu.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\7o29y5cl9v-5vj65cig9w.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\kj23s22uhm-e6q6xbwqzk.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\kv6knvjsd1-2q4vfeazbq.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\s1rp1c0wqg-dy6jgresuo.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\47q1k1odpp-o371a8zbv2.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\aab0eix58h-mk8rdyw69w.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\p7xj0jzfwg-jeal3x0ldm.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\pivk7fk53b-z7kmom2977.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\iwptzib1v1-okkk44j0xs.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\hvsqgimt46-97yrjpyf9r.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\4wla8vqe4d-cwzlr5n8x4.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\0qng5fqrm9-y53cy5s2zj.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\fg8k8dpcqw-wmug9u23qg.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\atddp2b40k-z9shlbduue.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\820y9ud0tc-j75batdsum.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\z3qn5fmhn5-2yn17lgxub.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\6jvkb2x6io-vy0bq9ydhf.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\cl9i5f85dj-ophe14yye5.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\9m0d6hn4pj-ab1c3rmv7g.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\u9cv55hq17-ik6i2hrs65.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\bsepf2by57-56d2bn4wt9.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\n1rztgaahf-ozu22stjof.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\7e1jrouz3e-73kdqttayv.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\mdw5cf5bse-6gzpyzhau4.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\6irs1lr206-8inm30yfxf.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\btzogytvl2-gjcw7pocpk.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\nbw5yrq2ym-4gxs3k148c.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\arwiq622fu-6l4ir0ityv.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\s3y88hu9ur-fctod5rc9n.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\v7mk9eir2f-f6zq8v6eb3.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\1hpyo07srx-kbynt5jhd9.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\92sjrmtusv-89qbw8ngem.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\dnp8qhgosa-c2nslu3uf3.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\bba0jss9t9-n5w6o92d9r.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\bn3tgaz6ao-2lgwfvgpvi.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\5zsw1e1n9a-jqwzsa9uv6.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\6r493uenxl-wsezl0heh6.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\on9hhdrh7z-1piudyfv7h.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\phn6ngjczz-6ukhryfubh.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\r5istdxhdg-4908xmbfjr.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\211d4ox20s-u33ctipx7g.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\ro5im22xel-dvc2bfcndg.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\pu3cr8fp8g-mt9h37ga6s.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\2nubatm872-wqejeusuyq.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\8kugiek0ou-wus95c49fh.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\zlt2j00pdl-sjab29p8z5.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\gb9j3e7l9m-d2pxujwhw3.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\8mu9akc04l-4dm14o4hmc.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\xaf1y6mb6t-x0q3zqp4vz.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\3wy3811757-ukz1g2vv03.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\72b454ei1k-rm8d4uw1xt.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\tqferwafak-dsw5v3fbc5.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\qnglonxnsf-afgyafcsqt.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\5lcr499xb2-b0id6z6ddi.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\f9n9vrdxmu-b0id6z6ddi.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets\msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets\msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets\msbuild.build.Expense Tracker.props
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Expense Tracker.props
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Expense Tracker.props
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense .AD010034.Up2Date
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\refint\Expense Tracker.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.pdb
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\Expense Tracker.genruntimeconfig.cache
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\ref\Expense Tracker.dll
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\jmj4r45z47-65hme81e6e.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\oorj790qe4-n0min2fqs6.gz
+C:\Users\aayus\Downloads\OOP2\Expense-Tracker-App-in-Asp.Net-Core-MVC\Expense Tracker\obj\Debug\net9.0\compressed\0icl86j7qs-65hme81e6e.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\appsettings.json
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Expense Tracker.staticwebassets.endpoints.json
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Expense Tracker.staticwebassets.runtime.json
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Expense Tracker.exe
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Expense Tracker.deps.json
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Expense Tracker.runtimeconfig.json
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Expense Tracker.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Expense Tracker.pdb
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Humanizer.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\MessagePack.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\MessagePack.Annotations.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Syncfusion.EJ2.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\Syncfusion.Licensing.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\Expense Tracker.csproj.AssemblyReference.cache
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\Expense Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\Expense Tracker.AssemblyInfoInputs.cache
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\Expense Tracker.AssemblyInfo.cs
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\Expense Tracker.csproj.CoreCompileInputs.cache
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\Expense Tracker.RazorAssemblyInfo.cache
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\Expense Tracker.RazorAssemblyInfo.cs
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\scopedcss\bundle\Expense Tracker.styles.css
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\scopedcss\projectbundle\Expense Tracker.bundle.scp.css
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\0icl86j7qs-65hme81e6e.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\jmj4r45z47-65hme81e6e.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\oorj790qe4-n0min2fqs6.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\igwcv491uc-6b9nfc4n3r.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\1glrxiw49m-nakmwdwsxp.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\y9ojnks5w9-st1cbwfwo5.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\0b59v6bsrj-5p029spbuu.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\7o29y5cl9v-5vj65cig9w.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\kj23s22uhm-e6q6xbwqzk.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\kv6knvjsd1-2q4vfeazbq.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\s1rp1c0wqg-dy6jgresuo.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\47q1k1odpp-o371a8zbv2.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\aab0eix58h-mk8rdyw69w.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\p7xj0jzfwg-jeal3x0ldm.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\pivk7fk53b-z7kmom2977.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\iwptzib1v1-okkk44j0xs.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\hvsqgimt46-97yrjpyf9r.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\4wla8vqe4d-cwzlr5n8x4.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\0qng5fqrm9-y53cy5s2zj.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\fg8k8dpcqw-wmug9u23qg.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\atddp2b40k-z9shlbduue.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\820y9ud0tc-j75batdsum.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\z3qn5fmhn5-2yn17lgxub.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\6jvkb2x6io-vy0bq9ydhf.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\cl9i5f85dj-ophe14yye5.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\9m0d6hn4pj-ab1c3rmv7g.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\u9cv55hq17-ik6i2hrs65.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\bsepf2by57-56d2bn4wt9.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\n1rztgaahf-ozu22stjof.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\7e1jrouz3e-73kdqttayv.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\mdw5cf5bse-6gzpyzhau4.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\6irs1lr206-8inm30yfxf.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\btzogytvl2-gjcw7pocpk.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\nbw5yrq2ym-4gxs3k148c.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\arwiq622fu-6l4ir0ityv.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\s3y88hu9ur-fctod5rc9n.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\v7mk9eir2f-f6zq8v6eb3.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\1hpyo07srx-kbynt5jhd9.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\92sjrmtusv-89qbw8ngem.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\dnp8qhgosa-c2nslu3uf3.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\bba0jss9t9-n5w6o92d9r.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\bn3tgaz6ao-2lgwfvgpvi.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\5zsw1e1n9a-jqwzsa9uv6.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\6r493uenxl-wsezl0heh6.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\on9hhdrh7z-1piudyfv7h.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\phn6ngjczz-6ukhryfubh.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\r5istdxhdg-4908xmbfjr.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\211d4ox20s-u33ctipx7g.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\ro5im22xel-dvc2bfcndg.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\pu3cr8fp8g-mt9h37ga6s.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\2nubatm872-wqejeusuyq.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\8kugiek0ou-wus95c49fh.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\zlt2j00pdl-sjab29p8z5.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\gb9j3e7l9m-d2pxujwhw3.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\8mu9akc04l-4dm14o4hmc.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\xaf1y6mb6t-x0q3zqp4vz.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\3wy3811757-ukz1g2vv03.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\72b454ei1k-rm8d4uw1xt.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\tqferwafak-dsw5v3fbc5.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\qnglonxnsf-afgyafcsqt.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\5lcr499xb2-b0id6z6ddi.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\compressed\f9n9vrdxmu-b0id6z6ddi.gz
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\staticwebassets\msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\staticwebassets\msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\staticwebassets\msbuild.build.Expense Tracker.props
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Expense Tracker.props
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Expense Tracker.props
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\Expense .AD010034.Up2Date
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\Expense Tracker.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\refint\Expense Tracker.dll
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\Expense Tracker.pdb
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\Expense Tracker.genruntimeconfig.cache
+C:\Users\aayus\Downloads\OOP3\Expense Tracker Project\Expense Tracker App\obj\Debug\net9.0\ref\Expense Tracker.dll

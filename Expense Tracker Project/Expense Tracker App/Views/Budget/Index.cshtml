@@ -1,0 +1,53 @@
+@model Expense_Tracker.Models.Budget
+
+@{
+    ViewData["PageTitle"] = "Budget";
+}
+
+<div class="row">
+    <div class="col-md-7">
+        <div class="widget p-5">
+            <div class="d-flex flex-column">
+                <div class="budget-status mb-4">
+                    <div class="d-flex justify-content-between align-items-center mb-3">
+                        <h3 class="fw-bold">Budget Status</h3>
+                        <span class="@(ViewBag.TotalExpense <= ViewBag.Budget ? "text-success" : "text-danger") fw-bold">
+                            @(ViewBag.TotalExpense <= ViewBag.Budget ? "Within Budget" : "Over Budget")
+                        </span>
+                    </div>
+                    <div class="d-flex justify-content-between mb-2">
+                        <span>Total Budget:</span>
+                        <span class="fw-bold">@ViewBag.Budget</span>
+                    </div>
+                    <div class="d-flex justify-content-between mb-2">
+                        <span>Total Expense:</span>
+                        <span class="fw-bold @(ViewBag.TotalExpense <= ViewBag.Budget ? "text-success" : "text-danger")">
+                            @ViewBag.TotalExpense
+                        </span>
+                    </div>
+                    <div class="d-flex justify-content-between">
+                        <span>Remaining:</span>
+                        <span class="fw-bold @(ViewBag.Remaining >= 0 ? "text-success" : "text-danger")">
+                            @ViewBag.Remaining
+                        </span>
+                    </div>
+                </div>
+
+                <form asp-action="SetBudget" class="mt-4">
+                    <div class="mb-3">
+                        <ejs-numerictextbox id="amount" ejs-for="Amount"
+                                        placeholder="Enter Budget Amount" floatLabelType="Always"
+                                        min=0 format="c0"></ejs-numerictextbox>
+                        <span asp-validation-for="Amount" class="text-danger fs-6"></span>
+                    </div>
+                    <ejs-button id="submit" type="submit" content="Set Budget" cssClass="e-success"></ejs-button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-5">
+        <div class="widget h-100 d-flex justify-content-center align-items-center">
+            <i class="fa-solid fa-sack-dollar fa-2xl"></i>
+        </div>
+    </div>
+</div> 
