@@ -9,12 +9,33 @@ a.navbar-brand {
 
 a {
   color: #0077cc;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #005fa3;
 }
 
 .btn-primary {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
+  transition: all 0.2s ease-in-out;
+}
+
+.btn-primary:hover {
+  background-color: #155a9c;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.btn-success {
+  transition: all 0.2s ease-in-out;
+}
+
+.btn-success:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
@@ -45,4 +66,40 @@ button.accept-policy {
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+}
+
+/* New styles for improved UI */
+.main-content {
+  background-color: #f8f9fa;
+  min-height: calc(100vh - 60px);
+  padding: 2rem 0;
+}
+
+.container {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+.navbar {
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+h3.fw-bold {
+  color: #2c3e50;
+  margin-bottom: 1.5rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  .main-content {
+    padding: 1rem 0;
+  }
 }
