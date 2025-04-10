@@ -21,7 +21,9 @@ namespace Expense_Tracker.Controllers
         // GET: Transaction
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Transactions.Include(t => t.Category);
+            var applicationDbContext = _context.Transactions
+                .Include(t => t.Category)
+                .OrderByDescending(t => t.Date);
             return View(await applicationDbContext.ToListAsync());
         }
 
@@ -30,26 +32,45 @@ namespace Expense_Tracker.Controllers
         {
             PopulateCategories();
             if (id == 0)
-                return View(new Transaction());
+                return View(new Transaction { Date = DateTime.Today });
             else
-                return View(_context.Transactions.Find(id));
+            {
+                var transaction = _context.Transactions.Find(id);
+                if (transaction == null)
+                {
+                    return NotFound();
+                }
+                return View(transaction);
+            }
         }
 
         // POST: Transaction/AddOrEdit
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> AddOrEdit([Bind("TransactionId,CategoryId,Amount,Note,Date")] Transaction transaction)
         {
             if (ModelState.IsValid)
             {
-                if (transaction.TransactionId == 0)
-                    _context.Add(transaction);
-                else
-                    _context.Update(transaction);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                try
+                {
+                    if (transaction.TransactionId == 0)
+                        _context.Add(transaction);
+                    else
+                        _context.Update(transaction);
+                    await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!TransactionExists(transaction.TransactionId))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
             }
             PopulateCategories();
             return View(transaction);
@@ -60,20 +81,16 @@ namespace Expense_Tracker.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            if (_context.Transactions == null)
-            {
-                return Problem("Entity set 'ApplicationDbContext.Transactions'  is null.");
-            }
             var transaction = await _context.Transactions.FindAsync(id);
-            if (transaction != null)
+            if (transaction == null)
             {
-                _context.Transactions.Remove(transaction);
+                return NotFound();
             }
 
+            _context.Transactions.Remove(transaction);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
-
 
         [NonAction]
         public void PopulateCategories()
@@ -82,6 +99,11 @@ namespace Expense_Tracker.Controllers
             Category DefaultCategory = new Category() { CategoryId = 0, Title = "Choose a Category" };
             CategoryCollection.Insert(0, DefaultCategory);
             ViewBag.Categories = CategoryCollection;
+        }
+
+        private bool TransactionExists(int id)
+        {
+            return _context.Transactions.Any(e => e.TransactionId == id);
         }
     }
 }

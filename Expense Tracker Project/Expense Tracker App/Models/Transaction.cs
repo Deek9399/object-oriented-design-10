@@ -8,16 +8,20 @@ namespace Expense_Tracker.Models
         [Key]
         public int TransactionId { get; set; }
 
-        [Range(1,int.MaxValue,ErrorMessage ="Please select a category.")]
+        [Range(1, int.MaxValue, ErrorMessage = "Please select a valid category.")]
         public int CategoryId { get; set; }
         public Category? Category { get; set; }
 
-        [Range(1, int.MaxValue, ErrorMessage = "Amount should be greater than 0.")]
-        public int Amount { get; set; }
+        [Range(0.01, double.MaxValue, ErrorMessage = "Amount should be greater than 0.")]
+        [Column(TypeName = "decimal(18,2)")]
+        public decimal Amount { get; set; }
 
         [Column(TypeName = "nvarchar(75)")]
+        [StringLength(75, ErrorMessage = "Note cannot exceed 75 characters.")]
         public string? Note { get; set; }
 
+        [Required(ErrorMessage = "Date is required")]
+        [DataType(DataType.Date)]
         public DateTime Date { get; set; } = DateTime.Now;
 
         [NotMapped]
@@ -34,9 +38,8 @@ namespace Expense_Tracker.Models
         {
             get
             {
-                return ((Category == null || Category.Type == "Expense") ? "- " : "+ ") + Amount.ToString("C0");
+                return ((Category == null || Category.Type == "Expense") ? "- " : "+ ") + Amount.ToString("C2");
             }
         }
-
     }
 }
